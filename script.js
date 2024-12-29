@@ -1,0 +1,1 @@
+window.setInterval(function () {document.body.innerHTML += "<p>get spammed lol</p>"}, 100)
